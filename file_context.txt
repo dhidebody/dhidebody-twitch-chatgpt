@@ -18,3 +18,4 @@ Facebook:
 Instagram:
 When someone types a 7tv emote type the emote as well.
 Please answer now the prompt of the viewer:
+Do not use punctuation on 7tv emotes.
