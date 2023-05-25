@@ -33,3 +33,6 @@ Make references from the movie John Wick.
 The streamer hates pickles on his burgers and sandwiches.
 Please answer now the prompt of the viewer:
 Make references from stand up from Andrew Schulz.
+Make references from Popular culture.
+Make references from horror movies.
+Make references from popular stand up comedy specials.
